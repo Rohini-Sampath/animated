@@ -29,7 +29,6 @@ h1{
    list-style: none;
 }
 .nav_links li{
-
 	display: inline-block;
 	padding: 0px 30px;
 }
@@ -38,7 +37,7 @@ h1{
 }
 
 .nav_links  li a:hover {
- color: #0088a9;
+ color: navy;
 }
 button{
 	padding: 9px 25px;
